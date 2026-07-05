@@ -21,13 +21,4 @@ npm install
 npm run start:dev
 ```
 
-## Submission checklist
 
-- [ ] Push this folder to a GitHub repository and add the link here.
-- [ ] Record a screen capture showing:
-  - Landing page + responsive resize/device emulation (frontend).
-  - Creating, retrieving, updating, and deleting a note (backend, via the demo page at `http://localhost:3001` or curl/Postman).
-- [ ] Add the video link here.
-
-**GitHub repo:** _add link_
-**Demo video:** _add link_
